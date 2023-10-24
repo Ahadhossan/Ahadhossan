@@ -4,7 +4,7 @@
 
 #### Web Designer & Developer
 
-Assalamu Alaikum Salam, my name is Md. Ahad Hossain. I am going to work as a web designer.  I did three months of practical training.  I have experience in HTML, CSS, Javascript, Jquery php & Mysql.  I have about 1 year of experience in call center and digital marketing in a reputed company.
+Assalamu Alaikum Salam, I am going to work as a web designer.  I did three months of practical training.  I have experience in HTML, CSS, Javascript, Jquery php & Mysql.  I have about 1 year of experience in call center and digital marketing in a reputed company.
 
 Skills:  HTML / CSS / JS / JQUERY / Bootstrap / PHP / MySQL
 
