@@ -3,7 +3,7 @@
 ![Web Designer & Developer](https://avatars.githubusercontent.com/u/117075956?s=400&u=86112a23e5f91bd8ca1ad7627a83a5dcacfc5611&v=4)
 
 # Web Designer & Developer
-##### Love to write code 👩🏿‍💻
+##### Love to write code 👩🏿‍💻 
 ##### Like to share my coding experience 
 
 Assalamu Alaikum Salam, I am going to work as a web designer.  I did three months of practical training.  I have experience in HTML, CSS, Javascript, Jquery php & Mysql.  I have about 1 year of experience in call center and digital marketing in a reputed company.
@@ -21,7 +21,7 @@ Assalamu Alaikum Salam, I am going to work as a web designer.  I did three month
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahadhossan" alt="ahadhossan" /></a> </p>
 
-#<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mdahadh74529755" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdahadh74529755" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/@ahadhossan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@ahadhossan" height="30" width="40" /></a>
