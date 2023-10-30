@@ -1,7 +1,7 @@
 ![Web Designer & Developer](https://avatars.githubusercontent.com/u/117075956?s=400&u=86112a23e5f91bd8ca1ad7627a83a5dcacfc5611&v=4)
 
 # Hi there 👋, I am a Ahad Hossain 
-# Web Application Developer & Fronted Designer
+# Web Application Developer & Front-end Designer
 
 ##### Love to write code 👩🏿‍💻 
 ##### Like to share my coding experience 
