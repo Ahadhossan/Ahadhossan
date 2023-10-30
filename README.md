@@ -37,5 +37,4 @@ Assalamu Alaikum Salam, I am going to work as a web designer.  I did three month
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahadhossan&show_icons=true&locale=en" alt="ahadhossan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahadhossan&" alt="ahadhossan" /></p>
 
