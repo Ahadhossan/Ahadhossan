@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **my new projects member**
 
-- 👨‍💻 All of my projects are available at [mdahadhossain.netlify.app](mdahadhossain.netlify.app)
+- 👨‍💻 All of my projects are available at [mdahadhossain.netlify.app](ahad-hossain-portfolio-website-next-js.vercel.app)
 
 - 📝 I regularly write articles on [linkedin.com/in/mdahadhossain](linkedin.com/in/mdahadhossain)
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **ahadm3016@gmail.com / 01322959861**
 
-- 📄 Know about my experiences ahad-hossain-portfolio-website-next-js.vercel.app
+- 📄 Know about my experiences [mdahadhossain.netlify.app](ahad-hossain-portfolio-website-next-js.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
