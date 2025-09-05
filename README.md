@@ -9,19 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/mdahadh74529755" target="blank"><img src="https://img.shields.io/twitter/follow/mdahadh74529755?logo=twitter&style=for-the-badge" alt="mdahadh74529755" /></a> </p>
 
-- 🔭 I’m currently working on **React Projects**
+- 🔭 I’m currently working on **imranslab**
 
-- 🌱 I’m currently learning **React.js and Next.js**
+- 🌱 I’m currently learning **Node.js and Python**
 
 - 👯 I’m looking to collaborate on **my new projects member**
 
 - 📝 I regularly write articles on [linkedin.com/in/mdahadhossain](linkedin.com/in/mdahadhossain)
 
-- 💬 Ask me about **Next .js and Python**
-
 - 📫 How to reach me **ahadm3016@gmail.com / 01322959861**
 
-- 📄 Know about my experiences [ahad-hossain-portfolio-website-next-js.vercel.app](https://ahad-hossain-portfolio-website-next-js.vercel.app/)
+- 📄 Know about my experiences [ahad-hossain-portfolio-website-next-js.vercel.app](https://ahad-hossain-portfolio-website.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
